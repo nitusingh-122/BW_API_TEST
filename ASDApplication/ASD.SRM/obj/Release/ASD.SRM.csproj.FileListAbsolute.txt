@@ -1,0 +1,5 @@
+C:\Users\s.j.subramaniam\Desktop\BW\ASDApplication\ASD.SRM\bin\Release\ASD.SRM.dll
+C:\Users\s.j.subramaniam\Desktop\BW\ASDApplication\ASD.SRM\bin\Release\ASD.SRM.pdb
+C:\Users\s.j.subramaniam\Desktop\BW\ASDApplication\ASD.SRM\obj\Release\ASD.SRM.csprojResolveAssemblyReference.cache
+C:\Users\s.j.subramaniam\Desktop\BW\ASDApplication\ASD.SRM\obj\Release\ASD.SRM.dll
+C:\Users\s.j.subramaniam\Desktop\BW\ASDApplication\ASD.SRM\obj\Release\ASD.SRM.pdb

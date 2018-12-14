@@ -1,0 +1,4 @@
+C:\NituS\R&D\ASDApplication\Application.Common\bin\Debug\Application.Common.dll
+C:\NituS\R&D\ASDApplication\Application.Common\bin\Debug\Application.Common.pdb
+C:\NituS\R&D\ASDApplication\Application.Common\obj\Debug\Application.Common.dll
+C:\NituS\R&D\ASDApplication\Application.Common\obj\Debug\Application.Common.pdb

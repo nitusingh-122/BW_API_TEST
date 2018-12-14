@@ -1,0 +1,9 @@
+C:\NituS\RnD\ASDApplication\ASD.BW\obj\Debug\ASD.BW.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\NituS\RnD\ASDApplication\ASD.BW\bin\Debug\ASD.BW.dll
+C:\NituS\RnD\ASDApplication\ASD.BW\bin\Debug\ASD.BW.pdb
+C:\NituS\RnD\ASDApplication\ASD.BW\bin\Debug\ASDDataAccessLayer.dll
+C:\NituS\RnD\ASDApplication\ASD.BW\bin\Debug\Logger.dll
+C:\NituS\RnD\ASDApplication\ASD.BW\bin\Debug\ASDDataAccessLayer.pdb
+C:\NituS\RnD\ASDApplication\ASD.BW\bin\Debug\Logger.pdb
+C:\NituS\RnD\ASDApplication\ASD.BW\obj\Debug\ASD.BW.dll
+C:\NituS\RnD\ASDApplication\ASD.BW\obj\Debug\ASD.BW.pdb

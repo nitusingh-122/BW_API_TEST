@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AIDBConnectionString-Web.config Connection String" description="AIDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source= 10.51.20.109;Initial Catalog=AIES ;User ID=sa; Password=Acc1234$$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\ASD\\SVN\\BWApiCode_V1\\ASDApplication\\ASD\.ApplicationService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AIDBConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="BWConnectionString-Web.config Connection String" description="BWConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source= 10.51.20.109;Initial Catalog=BW ;User ID=sa; Password=Acc1234$$" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\ASD\\SVN\\BWApiCode_V1\\ASDApplication\\ASD\.ApplicationService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BWConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\ASD\\SVN\\BWApiCode_V1\\ASDApplication\\ASD\.ApplicationService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

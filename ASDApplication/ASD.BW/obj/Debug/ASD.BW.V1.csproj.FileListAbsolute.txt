@@ -1,0 +1,7 @@
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\bin\Debug\ASD.BW.dll
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\bin\Debug\ASD.BW.pdb
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\bin\Debug\ASD.Common.V1.dll
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\bin\Debug\ASD.Common.V1.pdb
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\obj\Debug\ASD.BW.V1.csprojResolveAssemblyReference.cache
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\obj\Debug\ASD.BW.dll
+C:\02ASD_SVN\AIES\DEVELOPMENT\ASDApplication\ASD.BW\obj\Debug\ASD.BW.pdb

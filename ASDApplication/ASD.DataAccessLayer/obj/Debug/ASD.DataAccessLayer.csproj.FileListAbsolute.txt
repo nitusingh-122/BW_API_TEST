@@ -1,0 +1,10 @@
+C:\NituS\R&D\ASDApplication\ASD.DataAccessLayer\bin\Debug\ASD.DataAccessLayer.dll
+C:\NituS\R&D\ASDApplication\ASD.DataAccessLayer\bin\Debug\ASD.DataAccessLayer.pdb
+C:\NituS\R&D\ASDApplication\ASD.DataAccessLayer\obj\Debug\ASD.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\NituS\R&D\ASDApplication\ASD.DataAccessLayer\obj\Debug\ASD.DataAccessLayer.dll
+C:\NituS\R&D\ASDApplication\ASD.DataAccessLayer\obj\Debug\ASD.DataAccessLayer.pdb
+C:\NituS\RnD\ASDApplication\ASD.DataAccessLayer\obj\Debug\ASD.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\NituS\RnD\ASDApplication\ASD.DataAccessLayer\obj\Debug\ASD.DataAccessLayer.dll
+C:\NituS\RnD\ASDApplication\ASD.DataAccessLayer\obj\Debug\ASD.DataAccessLayer.pdb
+C:\NituS\RnD\ASDApplication\ASD.DataAccessLayer\bin\Debug\ASD.DataAccessLayer.dll
+C:\NituS\RnD\ASDApplication\ASD.DataAccessLayer\bin\Debug\ASD.DataAccessLayer.pdb
